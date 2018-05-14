@@ -3,7 +3,7 @@
 		console.log('callback - particles.js config loaded');
 	});
 
-	var countDownDate = new Date("Oct 8, 2018 13:30:00").getTime();
+	var countDownDate = new Date("Oct 11, 2018 13:30:00").getTime();
 
 	var x = setInterval(function() {
 
